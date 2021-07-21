@@ -3,7 +3,7 @@
 ---
 
 
-[About Myself](/sample_page)
+[About Myself](/about_myself)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
