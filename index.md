@@ -7,11 +7,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Work](/pdf/sample_presentation.pdf)
+[Work](/work)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Contact Page](http://example.com/)
+[Contact Page](/contact_info)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
