@@ -1,3 +1,3 @@
 ## DSC_Project
 
-**Systems Analyst ConAgra** Omaha, Nebraska 
+**Projects for Applied Data Science** Omaha, Nebraska 
