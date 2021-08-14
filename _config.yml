@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Data Scientist  
   <br><br>
+  [About Myself](/about_myself)
+  <br><br>
   <a href="https://www.linkedin.com/in/shefers-sarkar-a6587750/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
