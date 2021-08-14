@@ -7,7 +7,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[DSC_Project](/DSC_project)
+[DSC_Project](/DSC_Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
