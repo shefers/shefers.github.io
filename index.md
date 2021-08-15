@@ -26,7 +26,11 @@
 [Project_4_Air Quality during COVID19](/Project_4)
 
 ---
-[Project_5_Tax Model Comparison](/Project_5)
+[Project_5: Tax Model Comparison](/Project_5)
+
+
+---
+[Project_6: Data Mining for Grocery Stores](/Project_6)
 
 
 
