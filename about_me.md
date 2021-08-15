@@ -1,3 +1,1 @@
-## About_Me:
-
 I am a highly motivated, agile, goal-oriented Analytics professional with IT and Human resource background.  Focused on asking the right questions and delivering actionable insights. Experienced in Agile methodology, Advance/ad-hoc/automated reporting solutions, Enterprise Interface design and testing. Successful in enabling the organization to make strategic informed business decisions to improve operations, productivity, and cost savings in a rapidly changing business environment. Solid grasp on business analysis, time management, prioritization, and problem-solving. Known as a critical thinker with strong attention to details. Big believer in getting at the 'why' via ‘jobs to be done' theory.
