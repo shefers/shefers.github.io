@@ -7,8 +7,8 @@
 <img src="images/hockey.jpg?raw=true"/>
 
 ---
-[DSC_Project](/DSC_Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project_2_Prediction of Cryptocurrency Price](/Project_2)
+<img src="images/crypto.jpg?raw=true"/>
 
 ---
 [Contact Page](/contact_info)
