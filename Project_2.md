@@ -2,5 +2,5 @@
 
 [Predicting Cryptocurrency Price .html.pdf](https://github.com/shefers/shefers.github.io/files/6987495/Predicting.Cryptocurrency.Price.html.pdf)
 
-Salary Prediction for NHL Players.ipynb
+[Code - Predicting Cryptocurrency Price](https://github.com/shefers/shefers.github.io/blob/master/Predicting%20Cryptocurrency%20Price%20.ipynb) 
 
