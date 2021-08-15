@@ -10,7 +10,7 @@
 ## Portfolio
 
 ---
-[Project_1_Salary Prediction for NHL Players](/Project_1)
+[Project_1: ## Salary Prediction for NHL Players](/Project_1)
 <img src="images/hockey.jpg?raw=true"/>
 
 ---
