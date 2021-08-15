@@ -1,15 +1,11 @@
-## Portfolio
-
----
-
-
 [About_me](/about_me)
-
 ---
 [Work](/work)
-
 ---
 [Contact Page](/contact_info)
+
+---
+## Portfolio
 
 ---
 [Project_1_Salary Prediction for NHL Players](/Project_1)
