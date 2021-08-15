@@ -3,6 +3,12 @@
 ---
 
 
+[About_me](/about_me)
+
+---
+[Work](/work)
+
+---
 [Contact Page](/contact_info)
 
 ---
