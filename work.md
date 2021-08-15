@@ -1,4 +1,4 @@
-** Systems Analyst - Corporate Applicatons
+Systems Analyst - Corporate Applicatons
 ---
 
 • In my current role I implement solutions that follow the entire software development life cycle and adhere to Conagra’s architecture guidelines for application development and implementation. Also partner with all GBIS towers to define and prioritize technology solutions that are appropriate and adequate to satisfy both tactical and strategic business needs.
